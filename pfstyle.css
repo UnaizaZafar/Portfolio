@@ -8,10 +8,10 @@
 }
 html{
     scroll-behavior: smooth;
-    scroll-snap-type: y proximity;
+   
 }
 body{
-    width: fit-content;
+    width: 100%;
     margin:0 auto;
 }
 #wrapper{
